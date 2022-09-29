@@ -141,5 +141,7 @@ If you have any issues, ask on the discord server for t2linux since I wont reall
 
 #### Credits:
 Written by: [DivineEssentia](https://github.com/DivineEssentia)
+
 Some commands and instructions from https://wiki.t2linux.org
+
 16,1 packages by [Redecorating](https://github.com/Redecorating)
