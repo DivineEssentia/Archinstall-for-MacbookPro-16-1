@@ -2,12 +2,14 @@
 
 This is a guide on how to install Arch Linux on a Macbook Pro 16 inch 2019 (16,1) using Archinstall. 
 
+
 ## Requirements
 
 - Internet Connection
 - The laptop
 - A USB Drive with at least 1GB
 - An external keyboard and mouse
+- Join the T2Linux discord: [discord.gg/Jayz5f5](https://discord.gg/Jayz5f5 "https://discord.gg/Jayz5f5")
 
 # Part 1: Installing the OS
 
